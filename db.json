@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "priyabrata",
+      "company_id": 1
+    },
+    {
+      "id": 2,
+      "name": "aaki",
+      "company_id": 2
+    },
+    {
+      "id": 3,
+      "name": "sahil",
+      "company_id": 1
+    },
+    {
+      "id": 4,
+      "name": "preety",
+      "company_id": 2
+    },
+    {
+      "id": 5,
+      "name": "kkk",
+      "company_id": 2
+    },
+    {
+      "id": 6,
+      "name": "tttkk",
+      "company_id": 1
+    },
+    {
+      "id": 7,
+      "name": "jjjjjtttkk",
+      "company_id": 1
+    },
+    {
+      "id": 8,
+      "name": "jjjjjtttkk",
+      "company_id": 1
+    },
+    {
+      "id": 9,
+      "name": "jjjjjtttkk",
+      "company_id": 1
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "Google"
+    }
+  ]
+}
